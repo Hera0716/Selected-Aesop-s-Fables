@@ -1,0 +1,57 @@
+﻿#content{
+    width: 75%;
+    margin: 10px auto;
+    background: white;
+    padding: 1em 3em;
+}
+
+h1{
+background-color: #841416;
+color: white;
+padding: 1em;
+text-align: center;
+font-size: 2em;
+font-weight: bold;
+}
+
+h2{
+color: #841416;
+padding-top: 1em;
+border-top: solid 2px #841416;
+font-size: 1.5em;
+font-weight: bold;
+}
+
+.first{
+color: #17037a;
+font-family: Verdana;
+}
+
+.second{
+font-family: Verdana;
+}
+
+.word{
+font-size: 300%;
+color: #841416;
+font-family: Georgia;
+}
+
+blockquote{
+background-color: #f0ecec;
+margin: 1em;
+font-style: italic;
+font-family: Verdana;
+}
+
+em{
+font-weight: bold;
+font-size: 120%;
+font-style: italic;
+font-family: Verdana;
+}
+
+body{
+background-color: #d3d3d3;
+font-family: Georgia;
+}
